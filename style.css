@@ -26,6 +26,7 @@ h1, h2, h3, h4, li{
     border-bottom: #dddddd;
     border-style: none none solid none;
     border-width: 0px 0px 2px 0px;
+    z-index: 100
 }
 
 .name {
